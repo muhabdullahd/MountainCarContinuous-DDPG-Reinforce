@@ -2,6 +2,9 @@
 
 This project implements two reinforcement learning algorithms to solve the MountainCarContinuous-v0 environment: Deep Deterministic Policy Gradient (DDPG) and REINFORCE (Monte Carlo Policy Gradient). The project provides a comprehensive comparison of these approaches in terms of learning efficiency, stability, and performance.
 
+ **Note:** Code for key components has been withheld to prevent misuse or plagiarism. Please contact me for collaboration or more details.
+
+
 ## Environment Description
 
 MountainCarContinuous-v0 is a classic control problem in reinforcement learning where an under-powered car must drive up a steep mountain. The car's engine is not strong enough to scale the mountain in a single pass, so the agent must learn to build momentum by driving back and forth.
